@@ -3,7 +3,7 @@ Backend engineer • Golang enthusiast • systems thinker
 
 I build scalable, maintainable backend systems and developer-friendly frameworks with a strong focus on performance and reliability. I enjoy turning complex problems into clean solutions — whether that's a reusable Go framework, a high-throughput data pipeline, or resilient microservices.
 
-- 🔭 I’m currently working as **SDE II at Zopsmart** (Backend / Golang)
+- 🔭 I’m currently working as **Software Developer at RedHat** (Backend / Golang)
 - 🌱 I’m learning and exploring advanced distributed systems patterns, observability, and production-grade reliability
 - 💬 Ask me about Go, system design, testing strategies, or performance tuning
 
